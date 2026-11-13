@@ -24,7 +24,7 @@ numeric ID or `account/server`). Omit them to query everything.
 ## Install (on any machine)
 
 ```bash
-git clone https://github.com/<you>/postmark-account-mcp.git ~/Applications/postmark-account-mcp
+git clone https://github.com/ckaklamanos/postmark-account-mcp.git ~/Applications/postmark-account-mcp
 cd ~/Applications/postmark-account-mcp && npm install
 
 # accounts file — kept OUTSIDE the repo
