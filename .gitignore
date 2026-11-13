@@ -1,0 +1,4 @@
+node_modules/
+accounts.json
+*.log
+.env
