@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Haris Kaklamanos",
   "license": "MIT",
   "type": "module",
   "private": "true",

@@ -56,3 +56,7 @@ cd ~/Applications/postmark-account-mcp && git pull && npm install
 Then restart Claude Code.
 
 Requires Node 18+.
+
+## License
+
+[MIT](LICENSE)
